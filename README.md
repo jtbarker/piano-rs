@@ -2,6 +2,7 @@
 
 ![Rust Toolchain](https://img.shields.io/badge/rust-stable-brightgreen.svg)
 [![Build Status](https://travis-ci.org/ritiek/piano-rs.svg?branch=master)](https://travis-ci.org/ritiek/piano-rs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjtbarker%2Fpiano-rs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjtbarker%2Fpiano-rs?ref=badge_shield)
 
 A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal.
 
@@ -156,3 +157,6 @@ $ cargo test
 ## License
 
 `The MIT License`
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjtbarker%2Fpiano-rs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjtbarker%2Fpiano-rs?ref=badge_large)
